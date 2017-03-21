@@ -1,0 +1,6 @@
+framework module Pods_Collegium_iOS {
+  umbrella header "Pods-Collegium-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
